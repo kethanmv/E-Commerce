@@ -1,0 +1,6 @@
+INSERT INTO category (category_id, category_name, description) VALUES (21370, 'Mobiles, Computers', 'Phones, Accessories, Power Banks, Tablets, Wearables, Software, Laptops, Monitors, Componenets');
+INSERT INTO category (category_id, category_name, description) VALUES (72282, 'TV, Appliances, Electronics', 'Televisions, HES, Headphones, Cameras, DSLR, Air Conditioners, Refrigerators, Washing Machines');
+INSERT INTO category (category_id, category_name, description) VALUES (50619, 'Fashion', 'Clothing, T-shirts & Polos, Shirts, Jeans, Shoes, Sportwear, Sunglasses, Handbags & Clutches');
+INSERT INTO category (category_id, category_name, description) VALUES (38680, 'Sports, Fitness, Bags, Luggage', 'Cricket, Badminton, Yoga, Running, Cycling, Travel Duffles, Backpacks, Rucksacks');
+INSERT INTO category (category_id, category_name, description) VALUES (57390, 'Books & Audible', 'Fiction Books, School Textbooks, Used Books, Audible Audiobooks');
+INSERT INTO category (category_id, category_name, description) VALUES (13121, 'Gaming', 'Gaming Consoles, PC Games, Gaming Accessories, Entertainment Collectibles, Blu-ray ');
